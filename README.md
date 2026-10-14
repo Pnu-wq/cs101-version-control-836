@@ -1,1 +1,5 @@
-# cs101-version-control-836
+# My CS Profile
+
+## About Me
+- Name: Tossaporn Kunopas
+- Major: Computer Science
